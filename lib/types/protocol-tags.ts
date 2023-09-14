@@ -1,1 +1,1 @@
-export const ATOMICALS_PROTOCOL_ENVELOPE_ID = 'atm1';
+export const ATOMICALS_PROTOCOL_ENVELOPE_ID = 'atom';
